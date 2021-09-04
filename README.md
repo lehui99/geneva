@@ -16,7 +16,7 @@ More detailed setup instructions are available at our [documentation](https://ge
 
 Install netfilterqueue dependencies:
 ```
-# sudo apt-get install build-essential python-dev libnetfilter-queue-dev libffi-dev libssl-dev iptables python3-pip
+# sudo apt-get install build-essential python3-dev libnetfilter-queue-dev libffi-dev libssl-dev iptables python3-pip
 ```
 
 Install Python dependencies:
